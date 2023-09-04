@@ -1,0 +1,29 @@
+{
+   "breakfast": [
+        {
+            "ingredient": "COOK",
+            "amount": 7,
+            "color": "rgb(204,252,162)"
+        },
+        {
+            "ingredient": "SPORT",
+            "amount": 3,
+            "color": "rgb(252,153,153)"
+        },    
+        {
+            "ingredient": "PRACTICE",
+            "amount": 5,
+            "color": "rgb(251,238,152)"
+        },
+        {
+            "ingredient": "STUDY",
+            "amount": 15,
+            "color": "rgb(152,153,251)"
+        },
+        {
+            "ingredient": "play",
+            "amount": 2,
+            "color": "rgb(245,152,251)"
+        }
+    ]
+}
